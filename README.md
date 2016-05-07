@@ -2,4 +2,4 @@
 ### a little collection of my Sinusbot scripts
 
 
-- aloneUserMode.js [alone User Mode](https://forum.sinusbot.com/resources/alone-user-mode.98/)
+- aloneUserMode.js [Volume by number of users (alone User Mode)](https://forum.sinusbot.com/resources/alone-user-mode.98/)
